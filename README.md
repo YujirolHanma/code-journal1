@@ -9,7 +9,7 @@ doing so requires
 #### * ****a journal entry every fort night to track said progress.****
 #### * ****watching educational videos to understand the input process output of github****
 
-## Coding jorunal dated 21th january , afternoon
+## Jan/21/2022
 # Aims that i had since the last journal entry
 1.  increase wpm to decrease time spent on writing code.
 - used free programs to practise typing quicker [1]
