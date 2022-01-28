@@ -23,9 +23,17 @@ i still have a long way to go before i wouldnt need to resort to google searches
 and certain shortcuts but by the next journal entry i wish to understand most of the fundamentaly common codes used.
 
 
-
-
-
 # sources:
 * (https://www.typing.com/student/tests) [1]
 * (https://docs.github.com/en/get-started/using-github/keyboard-shortcuts) [2]
+
+
+## Jan/25/2022
+# Aims since the last entry
+1.  understand css code to a higher level
+  -completed?still under progress
+## what I have learned..
+2. types of navigation and headers; its pretty cool to know that some of these headers have such goofy and ironic names that it actually makes it easier for one to memorize and understand them which helped alot.
+## Resolution 
+  -for the past couple days ive been finding it hard to understand css and the new codes that miss ashyln has been teaching me , might be because she goes  a bit too fast for my liking but i know i shouldnt be putting the blame on her , could be im just slow to this new language that im learning. I hope the next time i add my entry I would have caught up with the rest of the class and hopefully advance from there.
+
