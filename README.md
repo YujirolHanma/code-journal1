@@ -31,9 +31,30 @@ and certain shortcuts but by the next journal entry i wish to understand most of
 ## Jan/25/2022
 # Aims since the last entry
 1.  understand css code to a higher level
-  -completed?still under progress
+  - completed?still under progress
 ## what I have learned..
 2. types of navigation and headers; its pretty cool to know that some of these headers have such goofy and ironic names that it actually makes it easier for one to memorize and understand them which helped alot.
 ## Resolution 
   -for the past couple days ive been finding it hard to understand css and the new codes that miss ashyln has been teaching me , might be because she goes  a bit too fast for my liking but i know i shouldnt be putting the blame on her , could be im just slow to this new language that im learning. I hope the next time i add my entry I would have caught up with the rest of the class and hopefully advance from there.
+
+# Jan/30/2022
+# Changes to coding style since last entry
+  - I think ive got a more broad understanding towards css as a styling language.Proof of work;
+    * from countless websites i understood the major difference with flexbox and grid , although flexbox was designed for one dimension layouts, it trumps grid in that category .
+    * furthermore some new code that ive learned for flex box are;
+    
+ ### @media all and (max-width: 600px) {  
+    
+  ### .container {  
+  ### flex-wrap: wrap;  
+  ### }  
+    
+  ### .container > li {  
+  ###   flex-basis: 50%;  
+  ### }
+
+### }
+- this code allows users to make it so the flexbox can  change its size and appearance to match its aspect ratio.
+
+* Bugs that i found annoying to fix where the changes of browsers e.g;chrome,safari,etc. because i had learned not all browsers are compatible with all the code you  write , some may display an image in a different part of the screen still having the same code . Havent really figured out how to permanently fix it but i found that using one browser for the full duration of that project is more reliable then switching between them.
 
